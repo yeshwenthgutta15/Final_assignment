@@ -1,0 +1,41 @@
+{
+    "employees": [
+      {
+        "Name": "yeshwenth",
+        "DOB": "01-05-1995",
+        "Height": 170,
+        "City": "Amaravati",
+        "state": "Andhra Pradesh"
+        
+      },
+      {
+        "Name": "sandhya",
+        "DOB": "07-19-1995",
+        "Height": 185,
+        "City": "Dispur",
+        "State": "Assam"
+      },
+      {
+        "Name": "sateesh",
+        "DOB": "15-08-1998",
+        "Height": 175,
+        "City": "pune",
+        "State": "telanagana"
+      },
+      {
+        "Name": "bannu",
+        "DOB": "20-08-1972",
+        "Height": 152,
+        "City": "nashik",
+        "State": "Maharashtra"
+      },
+      {
+        "Name": "mohan",
+        "DOB": "18-10-1999",
+        "Height": 190,
+        "City": "madhuari",
+        "State": "Tamil Nadu"
+        
+      }
+    ]
+  }
